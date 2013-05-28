@@ -1,0 +1,27 @@
+A bare repository configured to use the following;
+
+Dependency Manager:
+	Composer
+
+Back End;
+	Framework:
+		Slim Framework 2.2.0
+
+	Templating:
+		Twig 1.13.0
+
+	Extras:
+		Slim Extras 2.0.3
+		Twig Extensions v1.0.0
+
+	ORM & ARM:
+		Idiorm v1.3.0
+		Paris v1.3.0
+
+Front End;
+	Framework:
+		Backbone.js 1.0.0
+
+	Dependencies:
+		JQuery v1.10.0
+		Underscore.js 1.4.4
