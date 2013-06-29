@@ -1,6 +1,6 @@
 #Options +FollowSymLinks
 RewriteEngine On
-#RewriteBase /var/www/amne/
+#RewriteBase /var/www/dhivehi/www/
 
 RewriteCond %{REQUEST_FILENAME} !-f
 RewriteRule ^ end.php [QSA,L]

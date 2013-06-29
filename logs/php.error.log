@@ -1,0 +1,178 @@
+[29-Jun-2013 10:42:09 UTC] PHP Parse error:  syntax error, unexpected $end in /var/www/dhivehi/app/routes/pdf.php on line 78
+[29-Jun-2013 10:42:09 UTC] PHP Stack trace:
+[29-Jun-2013 10:42:09 UTC] PHP   1. {main}() /var/www/dhivehi/www/end.php:0
+[29-Jun-2013 10:42:09 UTC] PHP Parse error:  syntax error, unexpected $end in /var/www/dhivehi/app/routes/pdf.php on line 78
+[29-Jun-2013 10:42:09 UTC] PHP Stack trace:
+[29-Jun-2013 10:42:09 UTC] PHP   1. {main}() /var/www/dhivehi/www/end.php:0
+[29-Jun-2013 10:42:47 UTC] PHP Parse error:  syntax error, unexpected $end in /var/www/dhivehi/app/routes/pdf.php on line 73
+[29-Jun-2013 10:42:47 UTC] PHP Stack trace:
+[29-Jun-2013 10:42:47 UTC] PHP   1. {main}() /var/www/dhivehi/www/end.php:0
+[29-Jun-2013 10:42:47 UTC] PHP Parse error:  syntax error, unexpected $end in /var/www/dhivehi/app/routes/pdf.php on line 73
+[29-Jun-2013 10:42:47 UTC] PHP Stack trace:
+[29-Jun-2013 10:42:47 UTC] PHP   1. {main}() /var/www/dhivehi/www/end.php:0
+[29-Jun-2013 10:43:46 UTC] PHP Parse error:  syntax error, unexpected $end in /var/www/dhivehi/app/routes/pdf.php on line 73
+[29-Jun-2013 10:43:46 UTC] PHP Stack trace:
+[29-Jun-2013 10:43:46 UTC] PHP   1. {main}() /var/www/dhivehi/www/end.php:0
+[29-Jun-2013 10:43:46 UTC] PHP Parse error:  syntax error, unexpected $end in /var/www/dhivehi/app/routes/pdf.php on line 73
+[29-Jun-2013 10:43:46 UTC] PHP Stack trace:
+[29-Jun-2013 10:43:46 UTC] PHP   1. {main}() /var/www/dhivehi/www/end.php:0
+[29-Jun-2013 10:47:32 UTC] PHP Parse error:  syntax error, unexpected $end in /var/www/dhivehi/app/routes/pdf.php on line 302
+[29-Jun-2013 10:47:32 UTC] PHP Stack trace:
+[29-Jun-2013 10:47:32 UTC] PHP   1. {main}() /var/www/dhivehi/www/end.php:0
+[29-Jun-2013 10:47:32 UTC] PHP Parse error:  syntax error, unexpected $end in /var/www/dhivehi/app/routes/pdf.php on line 302
+[29-Jun-2013 10:47:32 UTC] PHP Stack trace:
+[29-Jun-2013 10:47:32 UTC] PHP   1. {main}() /var/www/dhivehi/www/end.php:0
+[29-Jun-2013 10:49:47 UTC] PHP Fatal error:  Call to undefined method Slim\Slim::flush() in /var/www/dhivehi/app/routes/pdf.php on line 71
+[29-Jun-2013 10:49:47 UTC] PHP Stack trace:
+[29-Jun-2013 10:49:47 UTC] PHP   1. {main}() /var/www/dhivehi/www/end.php:0
+[29-Jun-2013 10:49:47 UTC] PHP   2. Slim\Slim->run() /var/www/dhivehi/www/end.php:83
+[29-Jun-2013 10:49:47 UTC] PHP   3. Slim\Middleware\PrettyExceptions->call() /var/www/dhivehi/app/vendor/slim/slim/Slim/Slim.php:1174
+[29-Jun-2013 10:49:47 UTC] PHP   4. Slim\Middleware\MethodOverride->call() /var/www/dhivehi/app/vendor/slim/slim/Slim/Middleware/PrettyExceptions.php:67
+[29-Jun-2013 10:49:47 UTC] PHP   5. Slim\Middleware\Flash->call() /var/www/dhivehi/app/vendor/slim/slim/Slim/Middleware/MethodOverride.php:94
+[29-Jun-2013 10:49:47 UTC] PHP   6. Slim\Slim->call() /var/www/dhivehi/app/vendor/slim/slim/Slim/Middleware/Flash.php:86
+[29-Jun-2013 10:49:47 UTC] PHP   7. Slim\Router->dispatch() /var/www/dhivehi/app/vendor/slim/slim/Slim/Slim.php:1222
+[29-Jun-2013 10:49:47 UTC] PHP   8. call_user_func_array() /var/www/dhivehi/app/vendor/slim/slim/Slim/Router.php:172
+[29-Jun-2013 10:49:47 UTC] PHP   9. {closure}() /var/www/dhivehi/app/vendor/slim/slim/Slim/Router.php:0
+[29-Jun-2013 10:50:58 UTC] PHP Fatal error:  Call to undefined method Slim\Slim::flush() in /var/www/dhivehi/app/routes/pdf.php on line 65
+[29-Jun-2013 10:50:58 UTC] PHP Stack trace:
+[29-Jun-2013 10:50:58 UTC] PHP   1. {main}() /var/www/dhivehi/www/end.php:0
+[29-Jun-2013 10:50:58 UTC] PHP   2. Slim\Slim->run() /var/www/dhivehi/www/end.php:83
+[29-Jun-2013 10:50:58 UTC] PHP   3. Slim\Middleware\PrettyExceptions->call() /var/www/dhivehi/app/vendor/slim/slim/Slim/Slim.php:1174
+[29-Jun-2013 10:50:58 UTC] PHP   4. Slim\Middleware\MethodOverride->call() /var/www/dhivehi/app/vendor/slim/slim/Slim/Middleware/PrettyExceptions.php:67
+[29-Jun-2013 10:50:58 UTC] PHP   5. Slim\Middleware\Flash->call() /var/www/dhivehi/app/vendor/slim/slim/Slim/Middleware/MethodOverride.php:94
+[29-Jun-2013 10:50:58 UTC] PHP   6. Slim\Slim->call() /var/www/dhivehi/app/vendor/slim/slim/Slim/Middleware/Flash.php:86
+[29-Jun-2013 10:50:58 UTC] PHP   7. Slim\Router->dispatch() /var/www/dhivehi/app/vendor/slim/slim/Slim/Slim.php:1222
+[29-Jun-2013 10:50:58 UTC] PHP   8. call_user_func_array() /var/www/dhivehi/app/vendor/slim/slim/Slim/Router.php:172
+[29-Jun-2013 10:50:58 UTC] PHP   9. {closure}() /var/www/dhivehi/app/vendor/slim/slim/Slim/Router.php:0
+[29-Jun-2013 10:51:49 UTC] PHP Fatal error:  Call to undefined method Slim\Slim::flush() in /var/www/dhivehi/app/routes/pdf.php on line 68
+[29-Jun-2013 10:51:49 UTC] PHP Stack trace:
+[29-Jun-2013 10:51:49 UTC] PHP   1. {main}() /var/www/dhivehi/www/end.php:0
+[29-Jun-2013 10:51:49 UTC] PHP   2. Slim\Slim->run() /var/www/dhivehi/www/end.php:83
+[29-Jun-2013 10:51:49 UTC] PHP   3. Slim\Middleware\PrettyExceptions->call() /var/www/dhivehi/app/vendor/slim/slim/Slim/Slim.php:1174
+[29-Jun-2013 10:51:49 UTC] PHP   4. Slim\Middleware\MethodOverride->call() /var/www/dhivehi/app/vendor/slim/slim/Slim/Middleware/PrettyExceptions.php:67
+[29-Jun-2013 10:51:49 UTC] PHP   5. Slim\Middleware\Flash->call() /var/www/dhivehi/app/vendor/slim/slim/Slim/Middleware/MethodOverride.php:94
+[29-Jun-2013 10:51:49 UTC] PHP   6. Slim\Slim->call() /var/www/dhivehi/app/vendor/slim/slim/Slim/Middleware/Flash.php:86
+[29-Jun-2013 10:51:49 UTC] PHP   7. Slim\Router->dispatch() /var/www/dhivehi/app/vendor/slim/slim/Slim/Slim.php:1222
+[29-Jun-2013 10:51:49 UTC] PHP   8. call_user_func_array() /var/www/dhivehi/app/vendor/slim/slim/Slim/Router.php:172
+[29-Jun-2013 10:51:49 UTC] PHP   9. {closure}() /var/www/dhivehi/app/vendor/slim/slim/Slim/Router.php:0
+[29-Jun-2013 10:51:56 UTC] PHP Fatal error:  Call to undefined method Slim\Slim::flush() in /var/www/dhivehi/app/routes/pdf.php on line 68
+[29-Jun-2013 10:51:56 UTC] PHP Stack trace:
+[29-Jun-2013 10:51:56 UTC] PHP   1. {main}() /var/www/dhivehi/www/end.php:0
+[29-Jun-2013 10:51:56 UTC] PHP   2. Slim\Slim->run() /var/www/dhivehi/www/end.php:83
+[29-Jun-2013 10:51:56 UTC] PHP   3. Slim\Middleware\PrettyExceptions->call() /var/www/dhivehi/app/vendor/slim/slim/Slim/Slim.php:1174
+[29-Jun-2013 10:51:56 UTC] PHP   4. Slim\Middleware\MethodOverride->call() /var/www/dhivehi/app/vendor/slim/slim/Slim/Middleware/PrettyExceptions.php:67
+[29-Jun-2013 10:51:56 UTC] PHP   5. Slim\Middleware\Flash->call() /var/www/dhivehi/app/vendor/slim/slim/Slim/Middleware/MethodOverride.php:94
+[29-Jun-2013 10:51:56 UTC] PHP   6. Slim\Slim->call() /var/www/dhivehi/app/vendor/slim/slim/Slim/Middleware/Flash.php:86
+[29-Jun-2013 10:51:56 UTC] PHP   7. Slim\Router->dispatch() /var/www/dhivehi/app/vendor/slim/slim/Slim/Slim.php:1222
+[29-Jun-2013 10:51:56 UTC] PHP   8. call_user_func_array() /var/www/dhivehi/app/vendor/slim/slim/Slim/Router.php:172
+[29-Jun-2013 10:51:56 UTC] PHP   9. {closure}() /var/www/dhivehi/app/vendor/slim/slim/Slim/Router.php:0
+[29-Jun-2013 10:52:13 UTC] PHP Fatal error:  Call to undefined method Slim\Slim::flush() in /var/www/dhivehi/app/routes/pdf.php on line 68
+[29-Jun-2013 10:52:13 UTC] PHP Stack trace:
+[29-Jun-2013 10:52:13 UTC] PHP   1. {main}() /var/www/dhivehi/www/end.php:0
+[29-Jun-2013 10:52:13 UTC] PHP   2. Slim\Slim->run() /var/www/dhivehi/www/end.php:83
+[29-Jun-2013 10:52:13 UTC] PHP   3. Slim\Middleware\PrettyExceptions->call() /var/www/dhivehi/app/vendor/slim/slim/Slim/Slim.php:1174
+[29-Jun-2013 10:52:13 UTC] PHP   4. Slim\Middleware\MethodOverride->call() /var/www/dhivehi/app/vendor/slim/slim/Slim/Middleware/PrettyExceptions.php:67
+[29-Jun-2013 10:52:13 UTC] PHP   5. Slim\Middleware\Flash->call() /var/www/dhivehi/app/vendor/slim/slim/Slim/Middleware/MethodOverride.php:94
+[29-Jun-2013 10:52:13 UTC] PHP   6. Slim\Slim->call() /var/www/dhivehi/app/vendor/slim/slim/Slim/Middleware/Flash.php:86
+[29-Jun-2013 10:52:13 UTC] PHP   7. Slim\Router->dispatch() /var/www/dhivehi/app/vendor/slim/slim/Slim/Slim.php:1222
+[29-Jun-2013 10:52:13 UTC] PHP   8. call_user_func_array() /var/www/dhivehi/app/vendor/slim/slim/Slim/Router.php:172
+[29-Jun-2013 10:52:13 UTC] PHP   9. {closure}() /var/www/dhivehi/app/vendor/slim/slim/Slim/Router.php:0
+[29-Jun-2013 10:52:38 UTC] PHP Fatal error:  Call to undefined method Slim\Slim::flush() in /var/www/dhivehi/app/routes/pdf.php on line 66
+[29-Jun-2013 10:52:38 UTC] PHP Stack trace:
+[29-Jun-2013 10:52:38 UTC] PHP   1. {main}() /var/www/dhivehi/www/end.php:0
+[29-Jun-2013 10:52:38 UTC] PHP   2. Slim\Slim->run() /var/www/dhivehi/www/end.php:83
+[29-Jun-2013 10:52:38 UTC] PHP   3. Slim\Middleware\PrettyExceptions->call() /var/www/dhivehi/app/vendor/slim/slim/Slim/Slim.php:1174
+[29-Jun-2013 10:52:38 UTC] PHP   4. Slim\Middleware\MethodOverride->call() /var/www/dhivehi/app/vendor/slim/slim/Slim/Middleware/PrettyExceptions.php:67
+[29-Jun-2013 10:52:38 UTC] PHP   5. Slim\Middleware\Flash->call() /var/www/dhivehi/app/vendor/slim/slim/Slim/Middleware/MethodOverride.php:94
+[29-Jun-2013 10:52:38 UTC] PHP   6. Slim\Slim->call() /var/www/dhivehi/app/vendor/slim/slim/Slim/Middleware/Flash.php:86
+[29-Jun-2013 10:52:38 UTC] PHP   7. Slim\Router->dispatch() /var/www/dhivehi/app/vendor/slim/slim/Slim/Slim.php:1222
+[29-Jun-2013 10:52:38 UTC] PHP   8. call_user_func_array() /var/www/dhivehi/app/vendor/slim/slim/Slim/Router.php:172
+[29-Jun-2013 10:52:38 UTC] PHP   9. {closure}() /var/www/dhivehi/app/vendor/slim/slim/Slim/Router.php:0
+[29-Jun-2013 10:57:46 UTC] PHP Fatal error:  Call to undefined method Slim\Slim::flush() in /var/www/dhivehi/app/routes/pdf.php on line 73
+[29-Jun-2013 10:57:46 UTC] PHP Stack trace:
+[29-Jun-2013 10:57:46 UTC] PHP   1. {main}() /var/www/dhivehi/www/end.php:0
+[29-Jun-2013 10:57:46 UTC] PHP   2. Slim\Slim->run() /var/www/dhivehi/www/end.php:83
+[29-Jun-2013 10:57:46 UTC] PHP   3. Slim\Middleware\PrettyExceptions->call() /var/www/dhivehi/app/vendor/slim/slim/Slim/Slim.php:1174
+[29-Jun-2013 10:57:46 UTC] PHP   4. Slim\Middleware\MethodOverride->call() /var/www/dhivehi/app/vendor/slim/slim/Slim/Middleware/PrettyExceptions.php:67
+[29-Jun-2013 10:57:46 UTC] PHP   5. Slim\Middleware\Flash->call() /var/www/dhivehi/app/vendor/slim/slim/Slim/Middleware/MethodOverride.php:94
+[29-Jun-2013 10:57:46 UTC] PHP   6. Slim\Slim->call() /var/www/dhivehi/app/vendor/slim/slim/Slim/Middleware/Flash.php:86
+[29-Jun-2013 10:57:46 UTC] PHP   7. Slim\Router->dispatch() /var/www/dhivehi/app/vendor/slim/slim/Slim/Slim.php:1222
+[29-Jun-2013 10:57:46 UTC] PHP   8. call_user_func_array() /var/www/dhivehi/app/vendor/slim/slim/Slim/Router.php:172
+[29-Jun-2013 10:57:46 UTC] PHP   9. {closure}() /var/www/dhivehi/app/vendor/slim/slim/Slim/Router.php:0
+[29-Jun-2013 11:12:43 UTC] PHP Fatal error:  Call to undefined method Slim\Slim::flush() in /var/www/dhivehi/app/routes/pdf.php on line 71
+[29-Jun-2013 11:12:43 UTC] PHP Stack trace:
+[29-Jun-2013 11:12:43 UTC] PHP   1. {main}() /var/www/dhivehi/www/end.php:0
+[29-Jun-2013 11:12:43 UTC] PHP   2. Slim\Slim->run() /var/www/dhivehi/www/end.php:83
+[29-Jun-2013 11:12:43 UTC] PHP   3. Slim\Middleware\PrettyExceptions->call() /var/www/dhivehi/app/vendor/slim/slim/Slim/Slim.php:1174
+[29-Jun-2013 11:12:43 UTC] PHP   4. Slim\Middleware\MethodOverride->call() /var/www/dhivehi/app/vendor/slim/slim/Slim/Middleware/PrettyExceptions.php:67
+[29-Jun-2013 11:12:43 UTC] PHP   5. Slim\Middleware\Flash->call() /var/www/dhivehi/app/vendor/slim/slim/Slim/Middleware/MethodOverride.php:94
+[29-Jun-2013 11:12:43 UTC] PHP   6. Slim\Slim->call() /var/www/dhivehi/app/vendor/slim/slim/Slim/Middleware/Flash.php:86
+[29-Jun-2013 11:12:43 UTC] PHP   7. Slim\Router->dispatch() /var/www/dhivehi/app/vendor/slim/slim/Slim/Slim.php:1222
+[29-Jun-2013 11:12:43 UTC] PHP   8. call_user_func_array() /var/www/dhivehi/app/vendor/slim/slim/Slim/Router.php:172
+[29-Jun-2013 11:12:43 UTC] PHP   9. {closure}() /var/www/dhivehi/app/vendor/slim/slim/Slim/Router.php:0
+[29-Jun-2013 11:14:26 UTC] PHP Fatal error:  Call to undefined method Slim\Slim::flush() in /var/www/dhivehi/app/routes/pdf.php on line 71
+[29-Jun-2013 11:14:26 UTC] PHP Stack trace:
+[29-Jun-2013 11:14:26 UTC] PHP   1. {main}() /var/www/dhivehi/www/end.php:0
+[29-Jun-2013 11:14:26 UTC] PHP   2. Slim\Slim->run() /var/www/dhivehi/www/end.php:83
+[29-Jun-2013 11:14:26 UTC] PHP   3. Slim\Middleware\PrettyExceptions->call() /var/www/dhivehi/app/vendor/slim/slim/Slim/Slim.php:1174
+[29-Jun-2013 11:14:26 UTC] PHP   4. Slim\Middleware\MethodOverride->call() /var/www/dhivehi/app/vendor/slim/slim/Slim/Middleware/PrettyExceptions.php:67
+[29-Jun-2013 11:14:26 UTC] PHP   5. Slim\Middleware\Flash->call() /var/www/dhivehi/app/vendor/slim/slim/Slim/Middleware/MethodOverride.php:94
+[29-Jun-2013 11:14:26 UTC] PHP   6. Slim\Slim->call() /var/www/dhivehi/app/vendor/slim/slim/Slim/Middleware/Flash.php:86
+[29-Jun-2013 11:14:26 UTC] PHP   7. Slim\Router->dispatch() /var/www/dhivehi/app/vendor/slim/slim/Slim/Slim.php:1222
+[29-Jun-2013 11:14:26 UTC] PHP   8. call_user_func_array() /var/www/dhivehi/app/vendor/slim/slim/Slim/Router.php:172
+[29-Jun-2013 11:14:26 UTC] PHP   9. {closure}() /var/www/dhivehi/app/vendor/slim/slim/Slim/Router.php:0
+[29-Jun-2013 11:14:43 UTC] PHP Fatal error:  Call to undefined method Slim\Slim::flush() in /var/www/dhivehi/app/routes/pdf.php on line 71
+[29-Jun-2013 11:14:43 UTC] PHP Stack trace:
+[29-Jun-2013 11:14:43 UTC] PHP   1. {main}() /var/www/dhivehi/www/end.php:0
+[29-Jun-2013 11:14:43 UTC] PHP   2. Slim\Slim->run() /var/www/dhivehi/www/end.php:83
+[29-Jun-2013 11:14:43 UTC] PHP   3. Slim\Middleware\PrettyExceptions->call() /var/www/dhivehi/app/vendor/slim/slim/Slim/Slim.php:1174
+[29-Jun-2013 11:14:43 UTC] PHP   4. Slim\Middleware\MethodOverride->call() /var/www/dhivehi/app/vendor/slim/slim/Slim/Middleware/PrettyExceptions.php:67
+[29-Jun-2013 11:14:43 UTC] PHP   5. Slim\Middleware\Flash->call() /var/www/dhivehi/app/vendor/slim/slim/Slim/Middleware/MethodOverride.php:94
+[29-Jun-2013 11:14:43 UTC] PHP   6. Slim\Slim->call() /var/www/dhivehi/app/vendor/slim/slim/Slim/Middleware/Flash.php:86
+[29-Jun-2013 11:14:43 UTC] PHP   7. Slim\Router->dispatch() /var/www/dhivehi/app/vendor/slim/slim/Slim/Slim.php:1222
+[29-Jun-2013 11:14:43 UTC] PHP   8. call_user_func_array() /var/www/dhivehi/app/vendor/slim/slim/Slim/Router.php:172
+[29-Jun-2013 11:14:43 UTC] PHP   9. {closure}() /var/www/dhivehi/app/vendor/slim/slim/Slim/Router.php:0
+[29-Jun-2013 11:18:43 UTC] PHP Fatal error:  Call to undefined method Slim\Slim::flush() in /var/www/dhivehi/app/routes/pdf.php on line 71
+[29-Jun-2013 11:18:43 UTC] PHP Stack trace:
+[29-Jun-2013 11:18:43 UTC] PHP   1. {main}() /var/www/dhivehi/www/end.php:0
+[29-Jun-2013 11:18:43 UTC] PHP   2. Slim\Slim->run() /var/www/dhivehi/www/end.php:83
+[29-Jun-2013 11:18:43 UTC] PHP   3. Slim\Middleware\PrettyExceptions->call() /var/www/dhivehi/app/vendor/slim/slim/Slim/Slim.php:1174
+[29-Jun-2013 11:18:43 UTC] PHP   4. Slim\Middleware\MethodOverride->call() /var/www/dhivehi/app/vendor/slim/slim/Slim/Middleware/PrettyExceptions.php:67
+[29-Jun-2013 11:18:43 UTC] PHP   5. Slim\Middleware\Flash->call() /var/www/dhivehi/app/vendor/slim/slim/Slim/Middleware/MethodOverride.php:94
+[29-Jun-2013 11:18:43 UTC] PHP   6. Slim\Slim->call() /var/www/dhivehi/app/vendor/slim/slim/Slim/Middleware/Flash.php:86
+[29-Jun-2013 11:18:43 UTC] PHP   7. Slim\Router->dispatch() /var/www/dhivehi/app/vendor/slim/slim/Slim/Slim.php:1222
+[29-Jun-2013 11:18:43 UTC] PHP   8. call_user_func_array() /var/www/dhivehi/app/vendor/slim/slim/Slim/Router.php:172
+[29-Jun-2013 11:18:43 UTC] PHP   9. {closure}() /var/www/dhivehi/app/vendor/slim/slim/Slim/Router.php:0
+[29-Jun-2013 11:18:53 UTC] PHP Fatal error:  Call to undefined method Slim\Slim::flush() in /var/www/dhivehi/app/routes/pdf.php on line 71
+[29-Jun-2013 11:18:53 UTC] PHP Stack trace:
+[29-Jun-2013 11:18:53 UTC] PHP   1. {main}() /var/www/dhivehi/www/end.php:0
+[29-Jun-2013 11:18:53 UTC] PHP   2. Slim\Slim->run() /var/www/dhivehi/www/end.php:83
+[29-Jun-2013 11:18:53 UTC] PHP   3. Slim\Middleware\PrettyExceptions->call() /var/www/dhivehi/app/vendor/slim/slim/Slim/Slim.php:1174
+[29-Jun-2013 11:18:53 UTC] PHP   4. Slim\Middleware\MethodOverride->call() /var/www/dhivehi/app/vendor/slim/slim/Slim/Middleware/PrettyExceptions.php:67
+[29-Jun-2013 11:18:53 UTC] PHP   5. Slim\Middleware\Flash->call() /var/www/dhivehi/app/vendor/slim/slim/Slim/Middleware/MethodOverride.php:94
+[29-Jun-2013 11:18:53 UTC] PHP   6. Slim\Slim->call() /var/www/dhivehi/app/vendor/slim/slim/Slim/Middleware/Flash.php:86
+[29-Jun-2013 11:18:53 UTC] PHP   7. Slim\Router->dispatch() /var/www/dhivehi/app/vendor/slim/slim/Slim/Slim.php:1222
+[29-Jun-2013 11:18:53 UTC] PHP   8. call_user_func_array() /var/www/dhivehi/app/vendor/slim/slim/Slim/Router.php:172
+[29-Jun-2013 11:18:53 UTC] PHP   9. {closure}() /var/www/dhivehi/app/vendor/slim/slim/Slim/Router.php:0
+[29-Jun-2013 11:19:58 UTC] PHP Fatal error:  Call to undefined method Slim\Slim::flush() in /var/www/dhivehi/app/routes/pdf.php on line 71
+[29-Jun-2013 11:19:58 UTC] PHP Stack trace:
+[29-Jun-2013 11:19:58 UTC] PHP   1. {main}() /var/www/dhivehi/www/end.php:0
+[29-Jun-2013 11:19:58 UTC] PHP   2. Slim\Slim->run() /var/www/dhivehi/www/end.php:83
+[29-Jun-2013 11:19:58 UTC] PHP   3. Slim\Middleware\PrettyExceptions->call() /var/www/dhivehi/app/vendor/slim/slim/Slim/Slim.php:1174
+[29-Jun-2013 11:19:58 UTC] PHP   4. Slim\Middleware\MethodOverride->call() /var/www/dhivehi/app/vendor/slim/slim/Slim/Middleware/PrettyExceptions.php:67
+[29-Jun-2013 11:19:58 UTC] PHP   5. Slim\Middleware\Flash->call() /var/www/dhivehi/app/vendor/slim/slim/Slim/Middleware/MethodOverride.php:94
+[29-Jun-2013 11:19:58 UTC] PHP   6. Slim\Slim->call() /var/www/dhivehi/app/vendor/slim/slim/Slim/Middleware/Flash.php:86
+[29-Jun-2013 11:19:58 UTC] PHP   7. Slim\Router->dispatch() /var/www/dhivehi/app/vendor/slim/slim/Slim/Slim.php:1222
+[29-Jun-2013 11:19:58 UTC] PHP   8. call_user_func_array() /var/www/dhivehi/app/vendor/slim/slim/Slim/Router.php:172
+[29-Jun-2013 11:19:58 UTC] PHP   9. {closure}() /var/www/dhivehi/app/vendor/slim/slim/Slim/Router.php:0
+[29-Jun-2013 11:20:12 UTC] PHP Fatal error:  Call to undefined method Slim\Slim::flush() in /var/www/dhivehi/app/routes/pdf.php on line 71
+[29-Jun-2013 11:20:12 UTC] PHP Stack trace:
+[29-Jun-2013 11:20:12 UTC] PHP   1. {main}() /var/www/dhivehi/www/end.php:0
+[29-Jun-2013 11:20:12 UTC] PHP   2. Slim\Slim->run() /var/www/dhivehi/www/end.php:83
+[29-Jun-2013 11:20:12 UTC] PHP   3. Slim\Middleware\PrettyExceptions->call() /var/www/dhivehi/app/vendor/slim/slim/Slim/Slim.php:1174
+[29-Jun-2013 11:20:12 UTC] PHP   4. Slim\Middleware\MethodOverride->call() /var/www/dhivehi/app/vendor/slim/slim/Slim/Middleware/PrettyExceptions.php:67
+[29-Jun-2013 11:20:12 UTC] PHP   5. Slim\Middleware\Flash->call() /var/www/dhivehi/app/vendor/slim/slim/Slim/Middleware/MethodOverride.php:94
+[29-Jun-2013 11:20:12 UTC] PHP   6. Slim\Slim->call() /var/www/dhivehi/app/vendor/slim/slim/Slim/Middleware/Flash.php:86
+[29-Jun-2013 11:20:12 UTC] PHP   7. Slim\Router->dispatch() /var/www/dhivehi/app/vendor/slim/slim/Slim/Slim.php:1222
+[29-Jun-2013 11:20:12 UTC] PHP   8. call_user_func_array() /var/www/dhivehi/app/vendor/slim/slim/Slim/Router.php:172
+[29-Jun-2013 11:20:12 UTC] PHP   9. {closure}() /var/www/dhivehi/app/vendor/slim/slim/Slim/Router.php:0

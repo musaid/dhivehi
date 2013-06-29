@@ -17,6 +17,8 @@ Back End;
 	ORM & ARM:
 		Idiorm v1.3.0
 		Paris v1.3.0
+	PDF:
+		TCPDF 6.0.020
 
 Front End;
 	Framework:

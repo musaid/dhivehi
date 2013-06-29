@@ -1,9 +1,9 @@
 <VirtualHost *:80>
-	ServerAdmin bare@localhost
-	ServerName bare
-	ServerAlias bare
+	ServerAdmin dhivehi@localhost
+	ServerName dhivehi
+	ServerAlias dhivehi
 
-	DocumentRoot /var/www/bare/www
+	DocumentRoot /var/www/dhivehi/www
 	<Directory />
 		Options FollowSymLinks
 		AllowOverride None
@@ -16,7 +16,7 @@
 		allow from 127.0.0.1
 	</Directory>
 
-	<Directory /var/www/bare/www/>
+	<Directory /var/www/dhivehi/www/>
 		Options Indexes FollowSymLinks MultiViews ExecCGI
 	    AllowOverride All
 		Order deny,allow
@@ -36,13 +36,13 @@
 		Allow from 127.0.0.1
 	</Directory>
 
-	ErrorLog /var/www/bare/logs/error.log
+	ErrorLog /var/www/dhivehi/logs/error.log
 
 	# Possible values include: debug, info, notice, warn, error, crit,
 	# alert, emerg.
 	LogLevel debug
 
-	CustomLog /var/www/bare/logs/access.log combined
+	CustomLog /var/www/dhivehi/logs/access.log combined
 
     Alias /doc/ "/usr/share/doc/"
     <Directory "/usr/share/doc/">
@@ -56,15 +56,15 @@
 	# PHP Flags
 	# suppress php errors
 	# uncomment to execute them
-	php_flag display_startup_errors off
-	php_flag display_errors	off
-	php_flag html_errors off
+	php_flag display_startup_errors on
+	php_flag display_errors	on
+	php_flag html_errors on
 	php_value docref_root 0
 	php_value docref_ext 0
 
 	# PHP Error logging
 	php_flag log_errors on
-	php_value error_log /var/www/bare/logs/php.error.log
+	php_value error_log /var/www/dhivehi/logs/php.error.log
 
 	# PHP Error Log level
 	# 8191 - complete error reporting (everything except run-time notices)
