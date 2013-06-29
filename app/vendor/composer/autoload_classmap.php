@@ -6,10 +6,24 @@ $vendorDir = dirname(dirname(__FILE__));
 $baseDir = dirname($vendorDir);
 
 return array(
+    'Datamatrix' => $vendorDir . '/musaid/tcpdf/include/barcodes/datamatrix.php',
     'IdiormResultSet' => $vendorDir . '/j4mie/idiorm/idiorm.php',
     'IdiormString' => $vendorDir . '/j4mie/idiorm/idiorm.php',
     'IdiormStringException' => $vendorDir . '/j4mie/idiorm/idiorm.php',
     'Model' => $vendorDir . '/j4mie/paris/paris.php',
     'ORM' => $vendorDir . '/j4mie/idiorm/idiorm.php',
     'ORMWrapper' => $vendorDir . '/j4mie/paris/paris.php',
+    'PDF417' => $vendorDir . '/musaid/tcpdf/include/barcodes/pdf417.php',
+    'QRcode' => $vendorDir . '/musaid/tcpdf/include/barcodes/qrcode.php',
+    'TCPDF' => $vendorDir . '/musaid/tcpdf/tcpdf.php',
+    'TCPDF2DBarcode' => $vendorDir . '/musaid/tcpdf/tcpdf_barcodes_2d.php',
+    'TCPDFBarcode' => $vendorDir . '/musaid/tcpdf/tcpdf_barcodes_1d.php',
+    'TCPDF_COLORS' => $vendorDir . '/musaid/tcpdf/include/tcpdf_colors.php',
+    'TCPDF_FILTERS' => $vendorDir . '/musaid/tcpdf/include/tcpdf_filters.php',
+    'TCPDF_FONTS' => $vendorDir . '/musaid/tcpdf/include/tcpdf_fonts.php',
+    'TCPDF_FONT_DATA' => $vendorDir . '/musaid/tcpdf/include/tcpdf_font_data.php',
+    'TCPDF_IMAGES' => $vendorDir . '/musaid/tcpdf/include/tcpdf_images.php',
+    'TCPDF_IMPORT' => $vendorDir . '/musaid/tcpdf/tcpdf_import.php',
+    'TCPDF_PARSER' => $vendorDir . '/musaid/tcpdf/tcpdf_parser.php',
+    'TCPDF_STATIC' => $vendorDir . '/musaid/tcpdf/include/tcpdf_static.php',
 );

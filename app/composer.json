@@ -5,6 +5,7 @@
 		"twig/twig": "1.13.0",
 		"twig/extensions": "v1.0.0",
 		"j4mie/idiorm": "v1.3.0",
-		"j4mie/paris": "v1.3.0"
+		"j4mie/paris": "v1.3.0",
+		"musaid/tcpdf": "dev-master"
     }
 }
